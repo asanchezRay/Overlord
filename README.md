@@ -5,5 +5,7 @@ Desarrollado en Unity
 
 Desarrolladores: 
   Matias Errazuriz
+  
   Boris Molina
+  
   Andrés Sánchez
